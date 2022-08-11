@@ -1,0 +1,1 @@
+# Pictures for hugo blogs
